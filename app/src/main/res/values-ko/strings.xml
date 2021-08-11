@@ -1,0 +1,51 @@
+<!DOCTYPE resources [
+    <!ENTITY version "v1.2">
+    ]>
+
+<resources>
+    <string name="app_name">COVID-19 Info</string>
+    <string name="about_covid">COVID-19는 새로 발견 된 SARS-CoV-2라는 코로나 바이러스에 의해 발생하는 전염병입니다. COVID-19는 다양한 방식으로 다른 사람들에게 영향을 미칩니다.\n\n<b>&version;</b></string>
+    <string name="sample_text"></string>
+    <string name="covid_detail_one">COVID-19는 새로 발견 된 SARS-CoV-2라는 코로나 바이러스에 의해 발생하는 전염병입니다. COVID-19는 다양한 방식으로 다른 사람들에게 영향을 미칩니다. COVID-19에 걸린 대부분의 사람들은 경증에서 중등도의 증상을 경험하고 특별한 치료없이 회복됩니다.</string>
+    <string name="covid_detail_two">COVID-19를 일으키는 바이러스는 주로 감염된 사람이 기침, 재채기 또는 숨을 내쉴 때 생성되는 물방울을 통해 전염됩니다. 이 물방울은 너무 무거워서 공중에 매달릴 수 없으며 빠르게 바닥이나 표면에 떨어집니다. \n\nCOVID-19에 걸린 사람과 가까이있는 경우 바이러스를들이 마시거나 오염 된 표면을 만진 다음 눈, 코 또는 입을 만지면 감염 될 수 있습니다.</string>
+    <string name="infected">감염된</string>
+    <string name="get_started">시작하다</string>
+    <string name="recovered">회복 된</string>
+    <string name="active">유효한</string>
+    <string name="deceased">고인</string>
+    <string name="choose_language">언어 선택</string>
+    <string name="today">오늘</string>
+    <string name="symptoms">조짐</string>
+    <string name="view_all">모두보기</string>
+    <string name="know_more">COVID -19에 대해 자세히 알아 보려면</string>
+    <string name="more_info">더 많은 정보</string>
+    <string name="precautions">지침</string>
+    <string name="how_it_spreads">퍼지는 방법</string>
+    <string name="learn_more">더 알아보기</string>
+    <string name="language">언어</string>
+    <string name="about">앱 정보</string>
+    <string name="hand_wash">손 세척</string>
+    <string name="hand_wash_detail">비누와 물로 20 초 동안 손을 자주 씻거나 알코올이 60 % 이상 함유 된 손 소독제를 사용하십시오.</string>
+    <string name="stay_home">집에 머물러주세요.</string>
+    <string name="stay_home_detail">다른 사람들과 함께있는 것이 안전 할 때까지 집에 있고 다른 사람들로부터 멀리 떨어져있는 것이 중요합니다.</string>
+    <string name="social_distance">사회적 거리</string>
+    <string name="social_distance_detail">자신과 다른 사람 사이에 거리를 두십시오 (최소 2 미터).</string>
+    <string name="clean_object"><![CDATA[깨끗한 물체 및 표면]]></string>
+    <string name="clean_object_detail">자주 만지는 물체와 표면을 매일 청소하고 소독하십시오.</string>
+    <string name="avoid_touching">만지지 마십시오</string>
+    <string name="avoid_touching_detail">씻지 않은 손으로 눈, 코, 입을 만지지 마십시오.</string>
+    <string name="dry_cough">마른 기침</string>
+    <string name="dry_cough_detail">...</string>
+    <string name="fever">발열</string>
+    <string name="fever_detail">...</string>
+    <string name="headache">두통</string>
+    <string name="headache_detail">...</string>
+    <string name="sore_throat">목 쓰림</string>
+    <string name="sore_throat_detail">...</string>
+    <string name="version">&version;</string>
+    <string name="about_app">이 앱은 다음과 같은 신뢰할 수있는 출처에서 전 세계적으로 COVID-19 통계에 대한 최신 정보를 사용자에게 제공합니다. [Johns Hopkins University, the New York Times, Worldometers, Apple reports].</string>
+    <string name="developers_string">프로그램 제작자: Husanboy Qodirov\nhusanboy.qodirov@outlook.com</string>
+    <string name="made_possible">다음의 도움으로 제작: disease.sh - Open Disease Data API</string>
+    <string name="link_to_learn">http://ncov.mohw.go.kr/faqBoardList.do?brdId=3&amp;brdGubun=38</string>
+    <string name="no_internet">인터넷에 연결되지 않음.</string>
+</resources>
